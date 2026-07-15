@@ -220,8 +220,9 @@ Currently pursuing certifications in
 
 ---
 
-```
-"There is no shortcut to becoming a great engineer.
+> **"There is no shortcut to becoming a great engineer. Every bug fixed, every project completed, and every algorithm solved contributes to mastery."**
+
+
 
 ---
 
@@ -603,12 +604,12 @@ Deployment
 ✅ Production-ready Backend Systems
 
 ---
+---
 
 <div align="center">
 
-### 🚀 "Build. Learn. Improve. Repeat."
+### 🚀 Build. Learn. Improve. Repeat.
+
+*"Every bug fixed, every project completed, and every algorithm solved contributes to mastery."*
 
 </div>
-Every bug fixed, every project completed,
-and every algorithm solved contributes to mastery."
-```
