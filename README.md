@@ -1,130 +1,614 @@
-# 👋 Hi, I'm Sarthak!
+<!-- ========================================================= -->
+<!--                  GITHUB PROFILE README                     -->
+<!--                     Tokyo Night Theme                      -->
+<!-- ========================================================= -->
 
-### 💻 Computer Engineering Student | Full Stack Developer | AI-Powered Web Developer
+<div align="center">
 
-I'm a Computer Engineering student passionate about **Full Stack Development** and integrating **AI into modern web applications**. I enjoy building scalable, user-friendly applications, solving coding challenges, and continuously learning new technologies. My goal is to create intelligent web solutions that provide real value to users.
+# 👋 Hi, I'm Sarthak Dehankar
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Computer+Engineering+Student;Full+Stack+Developer;AI-Powered+Web+Developer;Building+Modern+Scalable+Applications;Always+Learning+New+Technologies" />
 
-## 🚀 About Me
+<p>
+Building scalable, AI-powered web applications with modern technologies while continuously learning
+software engineering, cloud computing, DevOps, and system design.
+</p>
 
-- 🔭 Currently building **Full Stack web applications with AI integrations**.
-- 🌱 Learning **DevOps, Docker, Kubernetes, TypeScript, and Cloud Computing**.
-- 🤝 Looking to collaborate on **Open Source** and innovative web development projects.
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, Python, C++, REST APIs, and AI integrations**.
-- 🎯 Goal: Become a **Full Stack Developer** specializing in **AI-powered web applications**.
-- ⚡ Fun Fact: I love turning ideas into real-world applications and enjoy learning something new every day.
-
----
-
-## 🎯 Current Focus
-
-- 🌐 Building scalable MERN Stack applications
-- 🤖 Integrating AI into web applications using modern APIs
-- 🐳 Learning Docker & Kubernetes
-- ☁️ Exploring Cloud Computing & DevOps
-- 🚀 Improving Data Structures & Algorithms
-- 🌍 Contributing to Open Source Projects
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-dehankar-a48936324)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sarthakkkk11)
+![](https://komarev.com/ghpvc/?username=sarthakkk1105&style=for-the-badge&color=7aa2f7)
 
----
+![](https://img.shields.io/github/followers/sarthakkk1105?style=for-the-badge&color=7aa2f7&labelColor=1a1b26)
 
-# 💻 Tech Stack
+![](https://img.shields.io/github/stars/sarthakkk1105?style=for-the-badge&color=bb9af7&labelColor=1a1b26)
 
-### 💻 Languages
+![](https://img.shields.io/badge/Open%20Source-Lover-7dcfff?style=for-the-badge)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/MERN-Developer-73daca?style=for-the-badge)
 
-### 🎨 Frontend
+![](https://img.shields.io/badge/AI-Powered%20Apps-c0caf5?style=for-the-badge)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### 🛠️ DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=3395FF)
-
-### 🤖 AI & Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 About Me
 
-### 🎤 AI Mock Interview Platform
-- AI-integrated interview preparation platform with real-time feedback
-- **React, Node.js, MongoDB, Gemini API**
+```yaml
+Name: Sarthak Dehankar
 
-### 📄 AI Resume Analyzer
-- Resume analysis platform with AI-generated insights and ATS-style feedback
-- **React, Node.js, MongoDB, Gemini API**
+Education:
+Bachelor of Engineering (B.E.)
+Computer Engineering
 
-### 🏥 HealthSense
-- Health prediction and recommendation platform with interactive dashboard
-- **React, Flask, Scikit-learn**
+Role:
+• Full Stack Developer
+• AI-Powered Web Developer
+• Computer Engineering Student
 
-### 🛒 Grocery Management System
-- Full Stack grocery management system with authentication and dashboard
-- **React, Supabase, Node.js**
+Current Focus:
+• AI Integration
+• MERN Stack
+• Backend Engineering
+• Scalable REST APIs
+• System Design
 
----
+Learning:
+• Docker
+• Kubernetes
+• DevOps
+• TypeScript
+• Cloud Computing
+• AI Agents
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=sarthakkk1105&theme=dark&show_icons=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=sarthakkk1105&theme=dark)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarthakkk1105&layout=compact&theme=dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sarthakkk1105&theme=radical&no-frame=true&margin-w=15)
-
----
-
-![](https://komarev.com/ghpvc/?username=sarthakkk1105&style=flat-square)
+Goal:
+Become a Software Engineer building scalable
+AI-powered products that solve real-world problems.
+```
 
 ---
 
-> **"Code. Learn. Build. Repeat." 🚀**
+# 💡 Engineering Philosophy
+
+> **"Great software is built by understanding problems deeply, writing clean code, continuously learning, and never compromising on user experience."**
+
+I enjoy designing applications that are:
+
+- ⚡ Fast
+- 🔒 Secure
+- 📈 Scalable
+- 🎯 User-focused
+- 🤖 AI-powered
+- 🛠 Production-ready
+
+---
+
+# 🌟 What I'm Doing
+
+- 🔭 Building Full Stack MERN Applications
+- 🤖 Integrating Gemini AI into Web Apps
+- 💳 Working with Razorpay Payment Gateway
+- 🔐 Implementing JWT Authentication
+- 🌐 Developing REST APIs
+- 💬 Creating Real-Time Applications using Socket.io
+- 📚 Solving Data Structures & Algorithms
+- ☁️ Learning Cloud & DevOps
+
+---
+
+# 🏆 Professional Highlights
+
+| Achievement | Status |
+|------------|--------|
+| 💻 Full Stack Projects | **5+** |
+| 🧩 DSA Problems Solved | **200+** |
+| 🤖 AI-powered Applications | ✅ |
+| 💳 Razorpay Integration | ✅ |
+| 🔐 JWT Authentication | ✅ |
+| 🌐 REST API Development | ✅ |
+| 💬 Socket.io Applications | ✅ |
+| 📱 Responsive Web Apps | ✅ |
+| 🗄 Database Design | ✅ |
+| 🚀 MERN Stack Development | ✅ |
+
+---
+
+# 🎯 Areas of Interest
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Full Stack Development
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+</td>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Gemini API
+- Prompt Engineering
+- AI Integration
+- Machine Learning
+- LLM Applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Cloud Computing
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend Engineering
+
+- Authentication
+- Authorization
+- API Design
+- Database Design
+- Performance Optimization
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Competitive Programming
+
+<div align="center">
+
+| Platform | Profile |
+|----------|----------|
+| 💛 LeetCode | https://leetcode.com/u/sarthakkk11 |
+| 💚 GeeksforGeeks | Actively Learning |
+| ❤️ CodeChef | Exploring |
+| 💙 HackerRank | Active |
+| 🤍 Codeforces | Learning |
+
+</div>
+
+### Achievements
+
+- ✅ Solved **200+ DSA Problems**
+- ✅ Strong understanding of Data Structures
+- ✅ Regular Competitive Programming Practice
+- ✅ Focused on Problem Solving & Optimization
+
+---
+
+# 📜 Certifications
+
+Currently pursuing certifications in
+
+- Docker
+
+- Kubernetes
+
+- DevOps
+
+- Cloud Computing
+
+- TypeScript
+
+---
+
+```
+"There is no shortcut to becoming a great engineer.
+
+---
+
+# ⚡ Engineering Stack
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,firebase" />
+</p>
+
+**Experienced With**
+
+- React.js
+- React Router
+- Redux Toolkit
+- React Hook Form
+- Axios
+- Responsive UI Development
+- HTML5 & CSS3
+- Tailwind CSS
+- Vite
+
+---
+
+## ⚙️ Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Backend Expertise
+
+- REST API Development
+- Authentication & Authorization
+- JWT Authentication
+- Middleware Architecture
+- MVC Pattern
+- API Integration
+- File Upload Handling
+- Error Handling
+- Payment Gateway Integration
+- AI API Integration
+- Environment Configuration
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
+</p>
+
+### Database Experience
+
+- MongoDB
+- MySQL
+- Supabase
+- Firebase
+
+Experience with
+
+- CRUD Operations
+- Database Relationships
+- Schema Design
+- Authentication
+- Query Optimization
+- Secure Data Storage
+
+---
+
+## 🤖 AI Integration & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### AI Technologies
+
+- Gemini API
+- Prompt Engineering
+- AI Resume Analysis
+- AI Mock Interview System
+- Machine Learning Models
+- Flask APIs
+- Scikit-Learn
+- NumPy
+- Pandas
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+</p>
+
+### Currently Learning
+
+- Docker
+- Kubernetes
+- DevOps
+- CI/CD
+- Cloud Computing
+- GitHub Actions
+
+---
+
+## 🔐 Security
+
+- JWT Authentication
+- Password Hashing
+- Protected Routes
+- Role-Based Authorization
+- Secure REST APIs
+- Authentication Middleware
+- Environment Variables
+- Secure API Communication
+
+---
+
+## 📊 Data Engineering
+
+- Data Cleaning
+- Data Preprocessing
+- Pandas
+- NumPy
+- CSV Processing
+- Feature Engineering
+- ML Dataset Handling
+
+</div>
+
+---
+
+# 🏗 Engineering Experience
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Full Stack Development
+
+✔ React.js
+
+✔ Node.js
+
+✔ Express.js
+
+✔ MongoDB
+
+✔ REST APIs
+
+✔ Authentication
+
+✔ Responsive UI
+
+✔ API Integration
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Development
+
+✔ Gemini API
+
+✔ Prompt Engineering
+
+✔ AI-powered Web Apps
+
+✔ Resume Analysis
+
+✔ Interview Platform
+
+✔ Flask APIs
+
+✔ Machine Learning
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ⚙ Backend Engineering
+
+✔ JWT Authentication
+
+✔ Middleware
+
+✔ MVC Architecture
+
+✔ Razorpay Integration
+
+✔ Express APIs
+
+✔ Error Handling
+
+✔ CRUD Operations
+
+</td>
+
+<td width="50%">
+
+## 🗄 Database Engineering
+
+✔ MongoDB
+
+✔ MySQL
+
+✔ Supabase
+
+✔ Firebase
+
+✔ Schema Design
+
+✔ Authentication
+
+✔ Query Optimization
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Engineering Workflow
+
+```text
+Idea
+   │
+   ▼
+
+Problem Analysis
+   │
+   ▼
+
+UI/UX Design
+   │
+   ▼
+
+Frontend Development
+   │
+   ▼
+
+Backend API Design
+   │
+   ▼
+
+Database Integration
+   │
+   ▼
+
+Authentication
+   │
+   ▼
+
+AI Integration
+   │
+   ▼
+
+Testing
+   │
+   ▼
+
+Deployment
+```
+
+---
+
+# 📌 Core Engineering Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | React.js, Vite, Tailwind CSS, Redux Toolkit |
+| Backend | Node.js, Express.js |
+| AI | Gemini API, Prompt Engineering |
+| ML | Flask, Scikit-Learn, Pandas, NumPy |
+| Database | MongoDB, MySQL, Supabase, Firebase |
+| Authentication | JWT, Protected Routes |
+| Payment | Razorpay |
+| Real-Time | Socket.io |
+| Version Control | Git, GitHub |
+| API Testing | Postman |
+
+---
+
+# 🔥 Development Principles
+
+### ✅ Clean Code
+
+- Readable
+- Modular
+- Reusable
+- Maintainable
+
+---
+
+### ⚡ Performance
+
+- Efficient API Design
+- Optimized React Components
+- Fast Database Queries
+- Lazy Loading
+- Code Splitting
+
+---
+
+### 🔒 Security
+
+- JWT Authentication
+- Environment Variables
+- Input Validation
+- Protected Routes
+- Secure API Communication
+
+---
+
+### 📱 User Experience
+
+- Responsive Design
+- Mobile First
+- Smooth UI
+- Fast Loading
+- Accessibility Focus
+
+---
+
+# 🌱 Currently Exploring
+
+- 🤖 AI Agents
+- 🧠 LLM APIs
+- 🐳 Docker
+- ☸ Kubernetes
+- ☁ Cloud Computing
+- ⚙ DevOps
+- 🔥 TypeScript
+- 🏗 System Design
+- 📈 Scalable Backend Architecture
+- 🚀 Deployment Best Practices
+
+---
+
+# 💼 What I Love Building
+
+✅ AI-powered Web Applications
+
+✅ Full Stack MERN Projects
+
+✅ REST APIs
+
+✅ Authentication Systems
+
+✅ Payment Gateway Integrations
+
+✅ Real-Time Chat Applications
+
+✅ Machine Learning Integrations
+
+✅ Modern Responsive User Interfaces
+
+✅ Production-ready Backend Systems
+
+---
+
+<div align="center">
+
+### 🚀 "Build. Learn. Improve. Repeat."
+
+</div>
+Every bug fixed, every project completed,
+and every algorithm solved contributes to mastery."
+```
