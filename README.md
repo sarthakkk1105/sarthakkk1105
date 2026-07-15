@@ -1,18 +1,130 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm Sarthak, a Computer Engineering student who loves coding and building useful applications. I'm interested in Full Stack Development, AI, and problem-solving. I enjoy learning new technologies, working on real-world projects, and continuously improving my skills.<br><br>- 💻 Currently building web and AI projects.<br>- 📚 Learning DevOps, TypeScript, and cloud technologies.<br>- 🤝 Open to collaborating on interesting projects.<br>- 💬 Happy to talk about React, Node.js, MongoDB, JavaScript, and C++.<br>- 🚀 Always curious and eager to learn something new.
+# 👋 Hi, I'm Sarthak!
 
+### 💻 Computer Engineering Student | Full Stack Developer | AI-Powered Web Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthakkkk11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarthak Dehankar) 
-
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sarthakkk1105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sarthakkk1105&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarthakkk1105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Computer Engineering student passionate about **Full Stack Development** and integrating **AI into modern web applications**. I enjoy building scalable, user-friendly applications, solving coding challenges, and continuously learning new technologies. My goal is to create intelligent web solutions that provide real value to users.
 
 ---
-[![](https://komarev.com/ghpvc/?username=sarthakkk1105&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🔭 Currently building **Full Stack web applications with AI integrations**.
+- 🌱 Learning **DevOps, Docker, Kubernetes, TypeScript, and Cloud Computing**.
+- 🤝 Looking to collaborate on **Open Source** and innovative web development projects.
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, Python, C++, REST APIs, and AI integrations**.
+- 🎯 Goal: Become a **Full Stack Developer** specializing in **AI-powered web applications**.
+- ⚡ Fun Fact: I love turning ideas into real-world applications and enjoy learning something new every day.
+
+---
+
+## 🎯 Current Focus
+
+- 🌐 Building scalable MERN Stack applications
+- 🤖 Integrating AI into web applications using modern APIs
+- 🐳 Learning Docker & Kubernetes
+- ☁️ Exploring Cloud Computing & DevOps
+- 🚀 Improving Data Structures & Algorithms
+- 🌍 Contributing to Open Source Projects
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-dehankar-a48936324)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sarthakkkk11)
+
+---
+
+# 💻 Tech Stack
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 🛠️ DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=3395FF)
+
+### 🤖 AI & Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🎤 AI Mock Interview Platform
+- AI-integrated interview preparation platform with real-time feedback
+- **React, Node.js, MongoDB, Gemini API**
+
+### 📄 AI Resume Analyzer
+- Resume analysis platform with AI-generated insights and ATS-style feedback
+- **React, Node.js, MongoDB, Gemini API**
+
+### 🏥 HealthSense
+- Health prediction and recommendation platform with interactive dashboard
+- **React, Flask, Scikit-learn**
+
+### 🛒 Grocery Management System
+- Full Stack grocery management system with authentication and dashboard
+- **React, Supabase, Node.js**
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=sarthakkk1105&theme=dark&show_icons=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=sarthakkk1105&theme=dark)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarthakkk1105&layout=compact&theme=dark)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sarthakkk1105&theme=radical&no-frame=true&margin-w=15)
+
+---
+
+![](https://komarev.com/ghpvc/?username=sarthakkk1105&style=flat-square)
+
+---
+
+> **"Code. Learn. Build. Repeat." 🚀**
