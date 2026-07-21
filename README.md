@@ -26,7 +26,7 @@ software engineering, cloud computing, DevOps, and system design.
 
 ![](https://img.shields.io/github/stars/sarthakkk1105?style=for-the-badge&color=bb9af7&labelColor=1a1b26)
 
-![](https://img.shields.io/badge/Open%20Source-Lover-7dcfff?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-7dcfff?style=for-the-badge)
 
 ![](https://img.shields.io/badge/MERN-Developer-73daca?style=for-the-badge)
 
